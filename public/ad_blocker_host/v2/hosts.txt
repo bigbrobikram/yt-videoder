@@ -29695,7 +29695,7 @@
 127.0.0.1	go.mobpartner.mobi
 127.0.0.1	go.mobtrks.com
 127.0.0.1	go.mobytrks.com
-127.0.0.1   go.moonclick.com
+127.0.0.1	go.moonclick.com
 127.0.0.1	go.myimgt.com
 127.0.0.1	go.oclaserver.com
 127.0.0.1	go.oclasrv.com
@@ -34363,7 +34363,7 @@
 127.0.0.1	onclickads.net
 127.0.0.1	onclickads2.net
 127.0.0.1	onclickrev.com
-127.0.0.1   onclkds.com
+127.0.0.1	onclkds.com
 127.0.0.1	one-time-offer.com
 127.0.0.1	one.123counters.com
 127.0.0.1	oneandonlynetwork.com
